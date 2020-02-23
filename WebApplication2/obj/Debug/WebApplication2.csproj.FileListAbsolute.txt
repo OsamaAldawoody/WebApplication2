@@ -1,0 +1,7 @@
+D:\projects\VSprojects\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+D:\projects\VSprojects\WebApplication2\WebApplication2\bin\WebApplication2.dll
+D:\projects\VSprojects\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+D:\projects\VSprojects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojAssemblyReference.cache
+D:\projects\VSprojects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+D:\projects\VSprojects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+D:\projects\VSprojects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
